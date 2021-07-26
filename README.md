@@ -4,6 +4,8 @@
 - 👀 I’m interested in
   - Learn more about coding
 - 🌱 I’m currently learning:
+  - HTML
+  - CSS
   - JavaScript
     - ReactJs
     - NodeJs
