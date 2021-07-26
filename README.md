@@ -4,10 +4,11 @@
 - 👀 I’m interested in
   - Learn more about coding
 - 🌱 I’m currently learning:
-  - NodeJS
   - JavaScript
+    - ReactJs
+    - NodeJs
 - 📫 How to reach me: 
-  - Discord Thiagu#5633 
+  - Discord: Thiagu#5633 
   - Email: thiagopls1@hotmail.com
 
 <!---
