@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @thiagopls1
 - 👀 I’m interested in
-  - Learn more about coding
+  - Work with coding
 - 🌱 I’m currently learning:
   - HTML
   - CSS
