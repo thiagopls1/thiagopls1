@@ -38,16 +38,10 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
 </a>
 <a href="https://steamcommunity.com/id/toyotatruenoae86/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
 </a>
 </div>
  
-
-  
-  
-  
-  https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-
 <!---
 thiagopls1/thiagopls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
