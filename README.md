@@ -1,17 +1,10 @@
-## About me
-
-- 👋 Hi, I’m @thiagopls1
-- 👀 I’m interested in
+## 👋 Hi, I’m @thiagopls1
+- 👀 I’m currently interested in
+  - Finish my high school
+  - Learn more stuff about coding
   - Work with coding
-- 🌱 I’m currently learning:
-  - HTML
-  - CSS
-  - JavaScript
-    - ReactJs
-    - NodeJs
-- 📫 How to reach me: 
-  - Discord: Thiagu#5633 
-  - Email: thiagopls1@hotmail.com
+
+##
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopls1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -26,6 +19,10 @@
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
+##
+
+
 
 <!---
 thiagopls1/thiagopls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
