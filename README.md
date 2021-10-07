@@ -22,6 +22,14 @@
   <img align="center" alt="Thiago-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
+##
+
+![Snake animation](https://raw.githubusercontent.com/thiagopls1/thiagopls1/main/github-contribution-grid-snake.svg)
+
+<div style:"display: inline_block"><br>
+<svg
+</div>
+
 ## Contact
 
 <div>
