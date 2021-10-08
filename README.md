@@ -40,8 +40,7 @@
 </div>
   
 ##
-  
-![Snake animation](https://raw.githubusercontent.com/thiagopls1/thiagopls1/blob/output/github-contribution-snake.svg)
+ 
  
 <!---
 thiagopls1/thiagopls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
