@@ -26,17 +26,6 @@
 <a href="https://github.com/thiagopls1">
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/thiagopls1">
 </a>
-
-## Social 
-
-<div> 
-<a href="https://www.reddit.com/user/thiago_linss">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-</a>
-<a href="https://steamcommunity.com/id/toyotatruenoae86/">
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-</div>
  
 <!---
 thiagopls1/thiagopls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
