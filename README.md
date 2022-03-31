@@ -1,9 +1,5 @@
 # Seja Bem-Vindo ao meu perfil!
 
-- Atualmente estou aprendendo:
-  - JavaScript
-  - Node.Js
-  - Kotlin
 
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopls1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
