@@ -1,17 +1,22 @@
 # Welcome to my profile!
 
+### My name is Thiago, I'm 19 years old and live in São Paulo 😃
 
+- Computer Science student
+- Technologist in System Analysis
+- Web Developer
+
+## Stats
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagopls1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopls1&langs_count=8&theme=dracula&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopls1&langs_count=5&theme=dracula&layout=compact"/>
 </div>
 
-## My Languages:
-
+## Languages
 <div style:"display: inline_block"><br>
-  <img align="center" alt="Thiago-Kotlin" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Thiago-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thiago-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Thiago-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
 
 ## Contact
