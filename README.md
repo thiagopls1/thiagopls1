@@ -3,7 +3,7 @@
 ### My name is Thiago, I'm 19 years old and live in São Paulo 😃
 
 - Computer Science student
-- Technologist in System Analysis
+- Technologist in System Analisys and Development
 - Web Developer
 
 ## Stats
