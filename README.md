@@ -1,6 +1,6 @@
 # Welcome to my profile!
 
-### My name is Thiago, I'm 19 years old and live in São Paulo 😃
+### My name is Thiago, I'm 20 years old and live in São Paulo 😃
 
 - Computer Science student
 - Technologist in System Analisys and Development
