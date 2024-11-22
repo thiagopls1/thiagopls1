@@ -4,7 +4,7 @@
 
 - Computer Science student
 - Technologist in System Analisys and Development
-- Web Developer
+- Full Stack Developer
 
 ## Stats
 <div>
