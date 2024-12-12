@@ -1,6 +1,4 @@
-# Welcome to my profile!
-
-### Hello, my name is Thiago! 😃
+# Welcome to my profile! 😃
 
 - Computer Science student
 - Technologist in System Analisys and Development
