@@ -23,12 +23,9 @@
 ## Contact
 
 <div>
-<a href="mailto:thiagopls1@hotmail.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/thiago-p-lins">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+  <a href="mailto:thiagopls1@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+  </a>
 </div>
 <!---
 thiagopls1/thiagopls1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
